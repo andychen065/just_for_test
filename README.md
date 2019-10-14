@@ -3,3 +3,4 @@
 
 # merge test
 int x;
+int y;
