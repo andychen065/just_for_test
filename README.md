@@ -1,4 +1,5 @@
 # just_for_test
 
 
-commit 4
+# merge test
+int x;
